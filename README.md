@@ -1,5 +1,5 @@
 # O3D Converter
-Convert .o3D Game Models to Wavefront .obj or Collada .dae
+Convert .o3D Game Models to Wavefront .obj or Collada .dae  
 Exports also linked .dds Textures
 
 # Please Install following NuGet Packages:
